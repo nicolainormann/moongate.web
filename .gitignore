@@ -1,0 +1,13 @@
+*.suo
+*.user
+*.orig
+*.sublime-workspace
+.sass-cache/
+
+.DS_Store
+._.DS_Store
+
+.vs/
+
+[Bb]in/
+[Oo]bj/
