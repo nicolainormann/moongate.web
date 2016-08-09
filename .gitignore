@@ -1,5 +1,7 @@
 App_Data/TEMP/
-Logs/
+App_Data/Logs/
+
+Web.config
 
 *.suo
 *.user
