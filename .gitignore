@@ -1,5 +1,8 @@
-App_Data/TEMP/
-App_Data/Logs/
+website/App_Data/TEMP/
+website/App_Data/Logs/
+
+node_modules
+packages
 
 Web.config
 
