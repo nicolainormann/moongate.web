@@ -4,6 +4,9 @@ website/App_Data/Logs/
 node_modules
 packages
 
+*.min.js
+*.min.css
+
 Web.config
 
 *.suo

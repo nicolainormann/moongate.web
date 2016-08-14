@@ -1,0 +1,1 @@
+module youtube { export var html = '<div>asdasd</div>';}
